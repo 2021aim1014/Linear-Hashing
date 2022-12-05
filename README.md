@@ -1,5 +1,5 @@
 Linear Hashing
-#Author : Sumeet Gupta #2021AIM1014
+#Author : Sumeet Gupta
 
 Execution Steps:
 1. Copy the 2021AIM1014.cpp file in any folder.
